@@ -1,5 +1,5 @@
-num1= eval(input('enter first no:---'))
-num2= eval(input('enter second no:---'))
+num1= eval(input('enter first no:--'))
+num2= eval(input('enter second no:--'))
 operation= (input('enter operation among {+, -, *, /}:---'))
 if operation=='+':
   print('the sum is:', num1+num2)
